@@ -4,3 +4,6 @@ Deep learning is a powerful and effective method for classifying images of diffe
 
 
 Some of the most famous dog breeds include the Labrador Retriever, German Shepherd, Golden Retriever, Beagle, Bulldog, Poodle, Yorkshire Terrier, Australian Shepherd, Boxer, and Chihuahua. Some of these breeds are popular for their intelligence, loyalty, and friendly nature, while others are known for their unique look and small size. Some famous dogs from these breeds include Rin Tin Tin, Lassie, Beethoven, and Benji.
+
+
+![zico_UX_design_for_dogs_breeds_image_classification_Application_c545340c-02f3-4f7d-a95a-b08ac34f403a](https://user-images.githubusercontent.com/68817735/220917306-4b92fc2c-5b41-47df-9653-49a4ce452cb8.png)
